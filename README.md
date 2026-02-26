@@ -1,6 +1,5 @@
 # Hi 👋 I'm Sumit Chandravanshi
-## - 🌍 Portfolio: https://portfolio-rhc6.onrender.com
-
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-rhc6.onrender.com)
 ### Backend-Focused Developer | Java & Spring Enthusiast | Database-Oriented Thinker
 
 I build structured, scalable, and maintainable backend systems.  
